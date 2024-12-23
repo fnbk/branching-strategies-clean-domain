@@ -2,7 +2,7 @@
 
 This repository contains examples of refactoring an ASP.NET Core MVC Controller to improve maintainability by reducing deeply nested code and simplifying branching logic.
 
-This guide is an extension of the techniques discussed in the article: ".NET Strategies to Bypass Branching Madness: Tactics for Lean Domain Logic in C#", in which middlewares, Aspect-Oriented Programming techniques, and model validation are leveraged to demonstrate how a cleaner, more maintainable Web API codebase can be achieved in C#.
+This guide is an extension of the techniques discussed in the article: "[.NET Strategies to Bypass Branching Madness: Tactics for Lean Domain Logic in C#](https://medium.com/gitconnected/net-strategies-to-bypass-branching-madness-tactics-for-lean-domain-logic-in-c-fbb6bc51f48b)", in which middlewares, Aspect-Oriented Programming techniques, and model validation are leveraged to demonstrate how a cleaner, more maintainable Web API codebase can be achieved in C#.
 
 ## Contents
 
@@ -32,7 +32,7 @@ In the `CleanDomain3DataAnnotations` directory, you'll find examples of how data
 
 The examples in this repository illustrate how ASP.NET Core code can be refactored using middleware, AOP, and data annotations to adhere to the principles of Separation of Concerns ([SoC](https://cln.co/SoC)), Dependency Inversion Principle ([DIP](https://cln.co/DIP)), and Single Point Of Truth ([SPOT](https://cln.co/SPOT)). These practices enhance maintainability, readability, and scalability of Web API code in ASP.NET Core.
 
-For the complete guide and deeper insights into these patterns, refer to the article ".NET Strategies to Bypass Branching Madness: Tactics for Lean Domain Logic in C#."
+For the complete guide and deeper insights into these patterns, refer to the article "[.NET Strategies to Bypass Branching Madness: Tactics for Lean Domain Logic in C#](https://medium.com/gitconnected/net-strategies-to-bypass-branching-madness-tactics-for-lean-domain-logic-in-c-fbb6bc51f48b)."
 
 ## Getting Started
 
